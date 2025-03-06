@@ -27,14 +27,11 @@
 - Visual Studio (khuyến nghị bản 2019 trở lên)
 
 ### Hướng Dẫn Cài Đặt
-1. Clone hoặc tải source code về máy:
-   ```sh
-   git clone <repo-link>
-   ```
-2. Mở project bằng Visual Studio.
-3. Kết nối cơ sở dữ liệu SQL Server bằng cách chạy file script SQL trong thư mục `Database`.
-4. Cấu hình chuỗi kết nối trong `App.config` nếu cần.
-5. Build và chạy ứng dụng trên Visual Studio.
+
+1. Mở project bằng Visual Studio.
+2. Kết nối cơ sở dữ liệu SQL Server bằng cách chạy file script SQL trong thư mục `Database`.
+3. Cấu hình chuỗi kết nối trong `App.config` nếu cần.
+4. Build và chạy ứng dụng trên Visual Studio.
 
 
 
